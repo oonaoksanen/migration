@@ -5,4 +5,4 @@ This code contains an algorithm to analyze and simulate the behavior of meanderi
 The code uses the Oulankajoki River as an example and the shapefiles used in this project are available in this repository. By modifying the input parameters, such as the centerline, feasible region, and other required variables, this method can also be used to model other meandering rivers.
 
 
-Algorithm is part of Oona Oksanen's master's thesis (Pro gradu).
+Algorithm is part of Oona Oksanen's master's thesis.
